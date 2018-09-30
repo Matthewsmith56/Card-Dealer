@@ -10,11 +10,8 @@ namespace Cards_Dealer
     {
         static void Main(string[] args)
         {
-            DealCards();
-        }
 
-        public static void DealCards()
-        {
+
             List<string> MyCards = new List<string>(){"Jack of Clubs", "Queen of Clubs", "King of Clubs", "Ace of Clubs",
                 "Two of Clubs", "Three of Clubs", "Four of Clubs", "Five of Clubs", "Six of Clubs", "Seven of Clubs",
                 "Eight of Clubs", "Nine of Clubs", "Ten of Clubs", "Jack of Hearts", "Queen of Hearts", "King of Hearts",
